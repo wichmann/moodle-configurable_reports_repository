@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019060300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Administrative Änderungen]]></name>
+<summary><![CDATA[<p>Zeigt alle Änderungen an den administrativen Einstellungen der Moodle-Instanz in einer Tabellenansicht.</p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Mzp7czo4OiJxdWVyeXNxbCI7czo1NjU6IiUyMytTb3VyY2UlM0EraHR0cHMlM0ElMkYlMkZkb2NzLm1vb2RsZS5vcmclMkYzNyUyRmVuJTJGYWQtaG9jX2NvbnRyaWJ1dGVkX3JlcG9ydHMlMjNDb25maWdfY2hhbmdlc19pbl9FeHBvcnRfZnJpZW5kbHlfZm9ybSUwRCUwQVNFTEVDVCslMEQlMEErK0RBVEVfRk9STUFUJTI4K0ZST01fVU5JWFRJTUUlMjgrZy50aW1lbW9kaWZpZWQrJTI5KyUyQyslMjclMjVZLSUyNW0tJTI1ZCUyNyslMjkrQVMrREFURSUyQyslMEQlMEErK3UudXNlcm5hbWUrQVMrVVNFUiUyQytnLm5hbWUrQVMrc2V0dGluZyUyQyslMEQlMEErK0NBU0UrJTBEJTBBKysrK1dIRU4rZy5wbHVnaW4rSVMrTlVMTCtUSEVOKyUyN2NvcmUlMjclMEQlMEErKysrRUxTRStnLnBsdWdpbiUwRCUwQSsrRU5EK0FTK3BsdWdpbiUyQyslMEQlMEErK2cudmFsdWUrQVMrbmV3X3ZhbHVlJTJDK2cub2xkdmFsdWUrQVMrb3JpZ2luYWxfdmFsdWUlMEQlMEFGUk9NK3ByZWZpeF9jb25maWdfbG9nK0FTK2clMEQlMEFKT0lOK3ByZWZpeF91c2VyK0FTK3UrT04rZy51c2VyaWQrJTNEK3UuaWQlMEQlMEFPUkRFUitCWStEQVRFK0RFU0MlMEQlMEEiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MjU6IiVDMyU4NG5kZXJ1bmdlbitzcGVpY2hlcm4iO319fQ==]]></components>
+<export><![CDATA[]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[17]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>

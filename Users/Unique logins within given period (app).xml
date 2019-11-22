@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019060300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Einzigartige Logins in Zeitraum (App)]]></name>
+<summary><![CDATA[<p>Zeigt die Anzahl der einzigartigen Logins über WebService (App) in einem bestimmten Zeitraum.</p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Mzp7czo4OiJxdWVyeXNxbCI7czozNDA6IiUyMytTb3VyY2UlM0EraHR0cHMlM0ElMkYlMkZkb2NzLm1vb2RsZS5vcmclMkYzNyUyRmVuJTJGYWQtaG9jX2NvbnRyaWJ1dGVkX3JlcG9ydHMlMEQlMEFTRUxFQ1QrJTBEJTBBKytDT1VOVCUyOERJU1RJTkNUK2wudXNlcmlkJTI5K0FTK2Rpc3RpbmN0X3VzZXJzJTBEJTBBRlJPTStwcmVmaXhfbG9nc3RvcmVfc3RhbmRhcmRfbG9nK0FTK2wlMEQlMEFXSEVSRStsLm9yaWdpbiUzRCUyN3dzJTI3JTBEJTBBJTI1JTI1RklMVEVSX1NUQVJUVElNRSUzQWwudGltZWNyZWF0ZWQlM0ElM0UlMjUlMjUlMEQlMEElMjUlMjVGSUxURVJfRU5EVElNRSUzQWwudGltZWNyZWF0ZWQlM0ElM0MlMjUlMjUlMEQlMEEiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MjU6IiVDMyU4NG5kZXJ1bmdlbitzcGVpY2hlcm4iO319czo3OiJmaWx0ZXJzIjthOjE6e3M6ODoiZWxlbWVudHMiO2E6MTp7aTowO2E6NTp7czoyOiJpZCI7czoxNToiUlVLcHEzSzZ4OGg4d0gwIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjowOnt9czoxMDoicGx1Z2lubmFtZSI7czoxMjoic3RhcnRlbmR0aW1lIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czoyMzoiU3RhcnQlMkZFbmQtRGF0dW1maWx0ZXIiO3M6Nzoic3VtbWFyeSI7czoyNDoiU3RhcnQlMkZFbmQtRGF0dW0rRmlsdGVyIjt9fX19]]></components>
+<export><![CDATA[csv,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[154]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>

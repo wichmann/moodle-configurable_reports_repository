@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019060300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Modulnutzung in Kursen]]></name>
+<summary><![CDATA[<p>Zeigt an, wie oft die verschiedenen Module (Ressourcen und Aktivitäten) systemweit in Kursen genutzt werden.</p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[50]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czoxOTM6IlNFTEVDVCttLm5hbWUlMkMrQ09VTlQlMjgrY20uaWQrJTI5K0FTK2NvdW50ZXIlMEQlMEFGUk9NK3ByZWZpeF9jb3Vyc2VfbW9kdWxlcytBUytjbSUwRCUwQUpPSU4rcHJlZml4X21vZHVsZXMrQVMrbStPTitjbS5tb2R1bGUrJTNEK20uaWQlMEQlMEFHUk9VUCtCWStjbS5tb2R1bGUlMEQlMEFPUkRFUitCWStjb3VudGVyK0RFU0MlMEQlMEEiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MjU6IiVDMyU4NG5kZXJ1bmdlbitzcGVpY2hlcm4iO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fXM6NDoicGxvdCI7YToxOntzOjg6ImVsZW1lbnRzIjthOjE6e2k6MDthOjU6e3M6MjoiaWQiO3M6MTU6ImpsRVlPRU1sbDM1bElnSyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NTp7czoxMToibGFiZWxfZmllbGQiO3M6ODoiMCUyQ25hbWUiO3M6MTI6InZhbHVlX2ZpZWxkcyI7YToxOntpOjA7czoxMToiMSUyQ2NvdW50ZXIiO31zOjU6IndpZHRoIjtpOjkwMDtzOjY6ImhlaWdodCI7aTo1MDA7czoxMjoic3VibWl0YnV0dG9uIjtzOjE1OiJIaW56dWYlQzMlQkNnZW4iO31zOjEwOiJwbHVnaW5uYW1lIjtzOjM6ImJhciI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6OToiQmFyK2NoYXJ0IjtzOjc6InN1bW1hcnkiO3M6MTc6IkJhcitjaGFydCtzdW1tYXJ5Ijt9fX19]]></components>
+<export><![CDATA[csv,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>

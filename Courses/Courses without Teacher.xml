@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019060300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Kurse ohne Lehrer]]></name>
+<summary><![CDATA[Zeigt alle Kurse an, die keinen Lehrer mehr besitzen.<br><p><br></p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo2MzU6IlNFTEVDVCtDb3Vyc2UrRlJPTSslMEQlMEElMjglMEQlMEFTRUxFQ1QlMEQlMEErK2NvbmNhdCUyOCUyNyUzQ2ErdGFyZ2V0JTNEJTIyX25ldyUyMitocmVmJTNEJTIyJTI1JTI1V1dXUk9PVCUyNSUyNSUyRmNvdXJzZSUyRnZpZXcucGhwJTNGaWQlM0QlMjclMkNjLmlkJTJDJTI3JTIyJTNFJTI3JTJDYy5mdWxsbmFtZSUyQyUyNyUzQyUyRmElM0UlMjclMjkrQVMrQ291cnNlJTJDJTBEJTBBKyslMjglMEQlMEErK1NFTEVDVCtDT1VOVCUyOCtyYS51c2VyaWQrJTI5K0FTK1VzZXJzK0ZST00rcHJlZml4X3JvbGVfYXNzaWdubWVudHMrQVMrcmElMEQlMEErK0pPSU4rcHJlZml4X2NvbnRleHQrQVMrY3R4K09OK3JhLmNvbnRleHRpZCslM0QrY3R4LmlkJTBEJTBBKytXSEVSRStyYS5yb2xlaWQrJTNEKzMrQU5EK2N0eC5pbnN0YW5jZWlkKyUzRCtjLmlkJTBEJTBBKyslMjkrQVMrVGVhY2hlcnMlMEQlMEErK0ZST00rcHJlZml4X2NvdXJzZStBUytjJTBEJTBBKyslMjMrZXhjbHVkZStiYXNlK2NvdXJzZStmb3Irc3RhcnQrcGFnZSUwRCUwQSsrV0hFUkUrYy5pZCslM0MlM0UrMSUwRCUwQSsrT1JERVIrQlkrVGVhY2hlcnMrQVNDJTBEJTBBJTI5K0FTK2RhdGElMEQlMEFXSEVSRStkYXRhLlRlYWNoZXJzKyUzRCswJTBEJTBBIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjI1OiIlQzMlODRuZGVydW5nZW4rc3BlaWNoZXJuIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX19]]></components>
+<export><![CDATA[csv,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>

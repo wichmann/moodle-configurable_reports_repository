@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019060300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Eingeschriebene Benutzer einer Rolle pro Kategorie]]></name>
+<summary><![CDATA[<p>Zeigt an, wie viele Benutzer in den Kursen einer Kategorie eingeschrieben sind. Dabei kann über den Filter ausgewählt werden, welche Rolle und welche Kategorie berücksichtigt werden soll.</p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo0NTI6IlNFTEVDVCtjYXRzLm5hbWUrQVMrS2F0ZWdvcmllJTJDK0NPVU5UJTI4RElTVElOQ1QrcmEudXNlcmlkJTI5K0FTK0JlbnV0emVyJTBEJTBBRlJPTStwcmVmaXhfY291cnNlK0FTK2MlMEQlMEFMRUZUK0pPSU4rcHJlZml4X2NvbnRleHQrQVMrY3R4K09OK2MuaWQrJTNEK2N0eC5pbnN0YW5jZWlkJTBEJTBBSk9JTitwcmVmaXhfcm9sZV9hc3NpZ25tZW50cysrQVMrcmErT04rcmEuY29udGV4dGlkKyUzRCtjdHguaWQlMEQlMEFKT0lOK3ByZWZpeF9jb3Vyc2VfY2F0ZWdvcmllcytBUytjYXRzK09OK2MuY2F0ZWdvcnkrJTNEK2NhdHMuaWQlMEQlMEFXSEVSRStjLmNhdGVnb3J5KyUzRCtjYXRzLmlkJTBEJTBBJTI1JTI1RklMVEVSX1JPTEUlM0FyYS5yb2xlaWQlMjUlMjUlMEQlMEElMjUlMjVGSUxURVJfQ0FURUdPUklFUyUzQWNhdHMuaWQlMjUlMjUlMEQlMEFHUk9VUCtCWStjYXRzLmlkJTBEJTBBIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjI1OiIlQzMlODRuZGVydW5nZW4rc3BlaWNoZXJuIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX1zOjc6ImZpbHRlcnMiO2E6MTp7czo4OiJlbGVtZW50cyI7YToyOntpOjA7YTo1OntzOjI6ImlkIjtzOjE1OiJITW1FNEJlSmxidnFNSEgiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjA6e31zOjEwOiJwbHVnaW5uYW1lIjtzOjQ6InJvbGUiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjQ6InJvbGUiO3M6Nzoic3VtbWFyeSI7czo1MToiRmlsdGVyK3N5c3RlbStSb2xlcyslMjhUZWFjaGVyJTJDK1N0dWRlbnQlMkMrLi4uJTI5Ijt9aToxO2E6NTp7czoyOiJpZCI7czoxNToiY1hOYnliRDBjRFpCcVdEIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjowOnt9czoxMDoicGx1Z2lubmFtZSI7czoxMDoiY2F0ZWdvcmllcyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MTc6IkZpbHRlci1LYXRlZ29yaWVuIjtzOjc6InN1bW1hcnkiO3M6MjI6Ik5hY2grS2F0ZWdvcmllK2ZpbHRlcm4iO319fX0=]]></components>
+<export><![CDATA[csv,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>

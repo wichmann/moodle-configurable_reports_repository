@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019060300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Eingeschriebene Lehrer/Schüler pro Kategorie]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YTozOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo1MjU6IlNFTEVDVCtjYXRzLm5hbWUrQVMrS2F0ZWdvcmllJTJDK0NPVU5UJTI4RElTVElOQ1QrbHJhLnVzZXJpZCUyOStBUytTY2glQzMlQkNsZXIlMkMrQ09VTlQlMjhESVNUSU5DVCt0cmEudXNlcmlkJTI5K0FTK0xlaHJlciUwRCUwQUZST00rcHJlZml4X2NvdXJzZStBUytjJTBEJTBBTEVGVCtKT0lOK3ByZWZpeF9jb250ZXh0K0FTK2N0eCtPTitjLmlkKyUzRCtjdHguaW5zdGFuY2VpZCUwRCUwQUpPSU4rcHJlZml4X3JvbGVfYXNzaWdubWVudHMrK0FTK2xyYStPTitscmEuY29udGV4dGlkKyUzRCtjdHguaWQlMEQlMEFKT0lOK3ByZWZpeF9yb2xlX2Fzc2lnbm1lbnRzKytBUyt0cmErT04rdHJhLmNvbnRleHRpZCslM0QrY3R4LmlkJTBEJTBBSk9JTitwcmVmaXhfY291cnNlX2NhdGVnb3JpZXMrQVMrY2F0cytPTitjLmNhdGVnb3J5KyUzRCtjYXRzLmlkJTBEJTBBV0hFUkUrYy5jYXRlZ29yeSslM0QrY2F0cy5pZCtBTkQrbHJhLnJvbGVpZCUzRDUrQU5EK3RyYS5yb2xlaWQlM0QzJTBEJTBBR1JPVVArQlkrY2F0cy5pZCUwRCUwQSI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoyNToiJUMzJTg0bmRlcnVuZ2VuK3NwZWljaGVybiI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319czo3OiJmaWx0ZXJzIjthOjE6e3M6ODoiZWxlbWVudHMiO2E6MDp7fX1zOjQ6InBsb3QiO2E6MTp7czo4OiJlbGVtZW50cyI7YToxOntpOjA7YTo1OntzOjI6ImlkIjtzOjE1OiJwSVRrWFV1RkpmejhPZDIiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjU6e3M6MTE6ImxhYmVsX2ZpZWxkIjtzOjEzOiIwJTJDa2F0ZWdvcmllIjtzOjEyOiJ2YWx1ZV9maWVsZHMiO2E6Mjp7aTowO3M6MTY6IjElMkNzY2glQzMlQkNsZXIiO2k6MTtzOjEwOiIyJTJDbGVocmVyIjt9czo1OiJ3aWR0aCI7aTo5MDA7czo2OiJoZWlnaHQiO2k6NTAwO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxNToiSGluenVmJUMzJUJDZ2VuIjt9czoxMDoicGx1Z2lubmFtZSI7czozOiJiYXIiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjk6IkJhcitjaGFydCI7czo3OiJzdW1tYXJ5IjtzOjE3OiJCYXIrY2hhcnQrc3VtbWFyeSI7fX19fQ==]]></components>
+<export><![CDATA[csv,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>

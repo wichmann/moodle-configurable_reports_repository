@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019060300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Einzigartige Logins innerhalb eines Zeitraums]]></name>
+<summary><![CDATA[<p>Zeigt die Anzahl von Logins für alle Benutzer innerhalb eines bestimmten Zeitraums.</p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo0OTM6IiUyMytTb3VyY2UlM0EraHR0cHMlM0ElMkYlMkZkb2NzLm1vb2RsZS5vcmclMkYzNyUyRmVuJTJGYWQtaG9jX2NvbnRyaWJ1dGVkX3JlcG9ydHMlMEQlMEFTRUxFQ1QrJTBEJTBBK0NPVU5UJTI4RElTVElOQ1QrbC51c2VyaWQlMjkrQVMrJTI3RGlzdGluY3RVc2VyTG9naW5zJTI3JTBEJTBBRlJPTStwcmVmaXhfbG9nc3RvcmVfc3RhbmRhcmRfbG9nK2wlMEQlMEFXSEVSRStsLmFjdGlvbislM0QrJTI3bG9nZ2VkaW4lMjclMEQlMEElMjUlMjVGSUxURVJfU1RBUlRUSU1FJTNBbC50aW1lY3JlYXRlZCUzQSUzRSUyNSUyNSUwRCUwQSUyNSUyNUZJTFRFUl9FTkRUSU1FJTNBbC50aW1lY3JlYXRlZCUzQSUzQyUyNSUyNSUwRCUwQSUyM0FORCtZRUFSJTI4RlJPTV9VTklYVElNRSUyOGwudGltZWNyZWF0ZWQlMjklMjkrJTNEKyUyNzIwMTklMjclMEQlMEElMjNBTkQrTU9OVEglMjhGUk9NX1VOSVhUSU1FJTI4bC50aW1lY3JlYXRlZCUyOSUyOSslM0QrJTI3MDclMjclMEQlMEEiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MjU6IiVDMyU4NG5kZXJ1bmdlbitzcGVpY2hlcm4iO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fXM6NzoiZmlsdGVycyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjE6e2k6MDthOjU6e3M6MjoiaWQiO3M6MTU6IjRtODJlZWVSOTZGM0RMZiI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6MDp7fXM6MTA6InBsdWdpbm5hbWUiO3M6MTI6InN0YXJ0ZW5kdGltZSI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MjM6IlN0YXJ0JTJGRW5kLURhdHVtZmlsdGVyIjtzOjc6InN1bW1hcnkiO3M6MjQ6IlN0YXJ0JTJGRW5kLURhdHVtK0ZpbHRlciI7fX19fQ==]]></components>
+<export><![CDATA[csv,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[868]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
